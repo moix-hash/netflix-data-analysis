@@ -42,15 +42,18 @@ This project is a comprehensive data analysis of the Netflix dataset, containing
 
 ### 1. Global Content Heatmap
 > A heatmap revealing the density of content added by month and year.
-*(You can upload your heatmap screenshot here)*
+<img width="1044" height="549" alt="image" src="https://github.com/user-attachments/assets/1c7e8614-bcf9-4b61-bf19-fc14f6f49116" />
+
 
 ### 2. Content Ratings Distribution
 > Breakdown of ratings (TV-MA, PG-13, etc.) showing the target demographic.
-*(You can upload your rating chart screenshot here)*
+<img width="1169" height="549" alt="image" src="https://github.com/user-attachments/assets/1a903f09-f464-43f9-af5c-ef06038b0d31" />
+
 
 ### 3. Word Cloud
 > Most frequent words found in Netflix movie descriptions.
-*(You can upload your wordcloud screenshot here)*
+<img width="1097" height="589" alt="image" src="https://github.com/user-attachments/assets/e68d43c7-c5d5-47ae-9df5-4d6d49385489" />
+
 
 ## 📝 Conclusion
 The analysis confirms Netflix's pivot from a US-centric distributor to a global content producer. The data shows a significant surge in content volume peaking in **2019**, with a clear strategy to capture international markets through localized production.
@@ -58,4 +61,5 @@ The analysis confirms Netflix's pivot from a US-centric distributor to a global 
 ## 👤 Author
 * **Name:** [SYED MOIZ SHAHAB]
 * **LinkedIn:** [[LinkedIn Profile Link](https://www.linkedin.com/in/syed-moiz-shahab-ab8560297/)]
+
 * **GitHub:** [[GitHub Profile Link](https://github.com/moix-hash)]
